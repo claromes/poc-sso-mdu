@@ -23,8 +23,8 @@ A partir de login via WordPress manter sessão e autenticar o usuário em outros
 
 ## Aplicações
 ---
-1. WordPress: [wp.claromes.live/wp-admin](wp.claromes.live/wp-admin)
-2. Mastodon: [mastodon.claromes.live](mastodon.claromes.live)
+1. WordPress: [wp.claromes.live/wp-admin](https://wp.claromes.live/wp-admin)
+2. Mastodon: [mastodon.claromes.live](https://mastodon.claromes.live)
 
 ### Configurações
 
