@@ -53,6 +53,9 @@ A partir de login via WordPress manter sessão e autenticar o usuário em outros
     OIDC_DISCOVERY=true
     OIDC_ISSUER=<issuer-url>
     OIDC_AUTH_ENDPOINT=<auth-url>
+    OIDC_TOKEN_ENDPOINT=<token-url>
+    OIDC_USER_INFO_ENDPOINT=<user-info-url>
+    OIDC_END_SESSION_ENDPOINT=<logout-url>
     OIDC_SCOPE=openid,profile,email
     OIDC_UID_FIELD=preferred_username
     OIDC_CLIENT_ID=<client-id>
